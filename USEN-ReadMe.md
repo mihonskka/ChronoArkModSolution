@@ -34,7 +34,6 @@ Open folder "x64"->"Master" successively.
 ![image](https://github.com/mihonskka/ChronoArkModSolution/assets/55042437/82babb1f-4258-4cda-a6c1-614a2e4571a0)
 ![image](https://github.com/mihonskka/ChronoArkModSolution/assets/55042437/009f1953-aa1c-49da-9e0b-72a607edc170)
 
-将第一步下载到的BepInEx的压缩包文件中所有文件解压至此Master文件夹中
 Release zip file which download during step 1.
 
 ![image](https://github.com/mihonskka/ChronoArkModSolution/assets/55042437/7d4616e4-0c15-4f1d-8223-7127d355e9eb)
