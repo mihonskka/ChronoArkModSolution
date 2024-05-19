@@ -16,7 +16,6 @@ When downloading completed, you usually get a zip file.
 
 ![image](https://github.com/mihonskka/ChronoArkModSolution/assets/55042437/0bccb454-99a3-4590-b34d-f7e182c46964)
 
-Step 2：安装BepInEx
 Second: Install BepInEx
 
 Open Steam, and click the "LIBERARY" which in the left-top part of UI.
